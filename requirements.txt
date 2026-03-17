@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+pillow
+numpy
+scikit-learn
+python-multipart
+anthropic
+transformers
+python-dotenv
+mlflow

@@ -1,0 +1,9 @@
+data/
+mlruns/
+mlflow.db
+__pycache__/
+*.pyc
+*.pth
+*.pt
+src/nlp_model/ticket_classifier/
+.env
